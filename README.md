@@ -1,4 +1,4 @@
-# Всем привет, я [Дмитрий]!
+# Всем привет, я Дмитрий!
 ![Это я](photo.jpg)
 
 ### Обо мне:
@@ -9,5 +9,6 @@
 
 ---
 ### Связаться со мной:
-[![Telegram](https://img.shields.io)](https://t.me)
-[![Email](https://img.shields.io)](mailto:my@gmail.com)
+
+Вы можете найти меня в Telegram: https://t.me
+Или написать на почту: myemail@example.com
